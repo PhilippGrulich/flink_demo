@@ -12,7 +12,7 @@ import java.util.List;
  * Created by philipp on 12.05.16.
  * A Simple Flink Table API Demo
  */
-public class Main {
+public class BatchTableAPIMain {
 
     public static void main(String[] args){
 
